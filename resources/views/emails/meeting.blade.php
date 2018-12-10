@@ -1,0 +1,3 @@
+Hello,
+
+<strong>{{ $notification }}</strong>
